@@ -22,7 +22,7 @@ This project is a multi-step journey from a simple data file to a finished audio
 
 ---
 
-## Tools & Technologies Used 🛠️
+## Tools & Technologies Used 
 
 This project is built by standing on the shoulders of some amazing tools and technologies. Here's a quick rundown of what's under the hood:
 
